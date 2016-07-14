@@ -1,0 +1,9 @@
+c:\users\yungyung\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\yungyung\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\yungyung\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\yungyung\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\yungyung\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\bin\Debug\Server.exe.config
+C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\obj\Debug\Server.exe
+C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\obj\Debug\Server.pdb
