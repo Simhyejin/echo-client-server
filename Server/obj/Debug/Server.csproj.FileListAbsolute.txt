@@ -7,3 +7,6 @@ C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\
 C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\bin\Debug\Server.exe.config
 C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\obj\Debug\Server.exe
 C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\obj\Debug\Server.pdb
+C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\bin\Debug\Server.exe
+C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\bin\Debug\Server.pdb
+C:\Users\Yungyung\Documents\Visual Studio 2015\Projects\Client_Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
